@@ -18,7 +18,7 @@ public class Main {
             Firm [] frm=new Firm[10];//определяем массив из 10 обїектов
             for (int i=0; i<frm.length; i++) {
                 frm[i]=new Firm("Firma-"+i); //создаем объекты
-                frm[i].Vivod();
+               // frm[i].Vivod();
             }
     }
 }
